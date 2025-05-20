@@ -1,6 +1,6 @@
 body {
     margin: 10%;
-    text-align: center;
+    text-align: center; /* Zarovnání textu na střed */
 }
 
 h1 {
